@@ -1,0 +1,70 @@
+# Flutter/Dart-specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+*.iml
+
+# Compiled Dart files
+*.dart.js
+*.dart.js.map
+*.dart.js.deps
+*.dart.js.deps.lock
+*.dart.js.interop
+*.dart.sdk
+*.g.dart
+.dartdev/
+.dart_tool/
+generated_plugin_registrant.dart
+
+# Android-specific files
+android/app/build/
+android/app/outputs/
+android/build/
+android/gradle/
+android/local.properties
+android/.gradle/
+android/captures/
+
+# iOS-specific files
+ios/Pods/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_assets/
+ios/Flutter/App.framework/
+ios/Flutter/App.framework.dSYM/
+ios/Flutter/App.framework.zip
+ios/Flutter/App.framework.snapshot
+ios/Flutter/App.framework.fluttercore/
+ios/Podfile.lock
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS-specific files
+macos/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+macos/Flutter/Generated.xcconfig
+macos/Flutter/flutter_assets/
+macos/Flutter/FlutterMacOS.framework/
+macos/Flutter/FlutterMacOS.framework.dSYM/
+macos/Flutter/FlutterMacOS.framework.zip
+macos/Flutter/FlutterMacOS.framework.snapshot
+macos/Flutter/FlutterMacOS.framework.fluttercore/
+macos/Podfile.lock
+
+# Windows-specific files
+windows/Flutter/flutter_assets/
+
+# Linux-specific files
+linux/Flutter/flutter_assets/
+
+# Web-specific files
+web/flutter_service_worker.js
+web/flutter_service_worker.js.map
+
+# Generated files
+lib/generated_plugin_registrant.dart

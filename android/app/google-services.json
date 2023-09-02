@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "935927347666",
+    "project_id": "adhicine-de69b",
+    "storage_bucket": "adhicine-de69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935927347666:android:cdaf67ed2627b7243cb00b",
+        "android_client_info": {
+          "package_name": "ccom.sanchit.adhecine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6qD9WMaWGL-DCem2rqteMInpDU0pZq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935927347666-kc3amp5rv7473bdk5e7rc150734edhia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.soulmood.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935927347666:android:1c9acf2c8e920da23cb00b",
+        "android_client_info": {
+          "package_name": "com.example.adhecine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6qD9WMaWGL-DCem2rqteMInpDU0pZq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935927347666-kc3amp5rv7473bdk5e7rc150734edhia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.soulmood.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935927347666:android:8a7aa3a697de8f173cb00b",
+        "android_client_info": {
+          "package_name": "com.sanchit.adhecine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935927347666-2t0nbda9d5pn2tdo71m4ps5cc5bfg09v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanchit.adhecine",
+            "certificate_hash": "0d838058f5849a1caadd3ebfbc64ffe35d88981b"
+          }
+        },
+        {
+          "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6qD9WMaWGL-DCem2rqteMInpDU0pZq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935927347666-kc3amp5rv7473bdk5e7rc150734edhia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.soulmood.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935927347666:android:69e683e3f6cbde4a3cb00b",
+        "android_client_info": {
+          "package_name": "com.soulmoodtracker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6qD9WMaWGL-DCem2rqteMInpDU0pZq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935927347666-k672j1bl969dhakagop9dr503jahutld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935927347666-kc3amp5rv7473bdk5e7rc150734edhia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.soulmood.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
